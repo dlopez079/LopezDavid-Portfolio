@@ -86,6 +86,7 @@
             padding: 10px;
             border: none;
             background: #000;
+            opacity: 65%;
             color: #fff;
             cursor: pointer;
         }
@@ -124,10 +125,10 @@
             </div>
 
             <div class="links">
-                <a href="https://#">About Me</a>
-                <a href="https://#">Portfolio</a>
-                <a href="https://#">Contact Me</a>
-                <a href="https://#">Blog</a>
+                <a href="#">About Me</a>
+                <a href="#">Portfolio</a>
+                <a href="#">Contact Me</a>
+                <a href="#">Blog</a>
                 <a href="https://www.linkedin.com/in/dlopez079/">LinkedIn</a>
                 <a href="https://github.com/dlopez079">GitHub</a>
 
