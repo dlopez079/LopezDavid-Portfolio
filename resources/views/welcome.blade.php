@@ -5,13 +5,18 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Laravel</title>
+    <title>David Lopez</title>
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 
     <!-- Styles -->
     <style>
+
+        #container {
+            background: black;
+        }
+
         html,
         body {
             background-color: #fff;
@@ -51,6 +56,7 @@
             width: 100%;
             padding: 20px;
         }
+
 
         .title {
             font-size: 84px;
@@ -95,6 +101,8 @@
             background: #ddd;
             color: black;
         }
+
+        
     </style>
 </head>
 
@@ -114,11 +122,22 @@
         </div>
         @endif
 
-        <!-- The video -->
-        <video autoplay muted loop id="myVideo">
+        <!-- The video
+        <video autoplay muted loop id="myVideo">-->
             <!-- echo asset('storage/img/worldvideo-fullhd.mp4');  -->
             <!-- <source src="storage/img/worldvideo-fullhd.mp4" type="video/mp4"> -->
-        </video>
+        <!-- </video> -->
+        
+        <div class="jumbotron jumbotron-fluid">
+            <div class="container">
+            <img src="storage/img/David_Lopez.png" alt="David Lopez">
+                <h1 class="display-4">David Lopez</h1>
+                <p class="lead">I am revising my webpage.  Doesn't look good right?!? </p>
+                <p class="lead">That's cause I like developing on the fly.  </p>
+                <p class="lead"> Come back at the end of the day and let me know what you think about my site. (I will finisht at 5 pm today!!!</p>
+            </div>
+        </div>
+
 
         <div class="content">
             <div class="title m-b-md">
