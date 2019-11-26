@@ -134,7 +134,7 @@
                 <h1 class="display-4">David Lopez</h1>
                 <p class="lead">I am revising my webpage.  Doesn't look good right?!? </p>
                 <p class="lead">That's cause I like developing on the fly.  </p>
-                <p class="lead"> Come back at the end of the day and let me know what you think about my site. (I will finisht at 5 pm today!!!</p>
+                <p class="lead"> Come back at the end of the day and let me know what you think about my site. I will finisht at 5 pm today!!!</p>
             </div>
         </div>
 
