@@ -122,11 +122,11 @@
         </div>
         @endif
 
-        <!-- The video
-        <video autoplay muted loop id="myVideo">-->
-            <!-- echo asset('storage/img/worldvideo-fullhd.mp4');  -->
-            <!-- <source src="storage/img/worldvideo-fullhd.mp4" type="video/mp4"> -->
-        <!-- </video> -->
+        <!-- The video -->
+        <video autoplay muted loop id="myVideo">
+            <!-- asset(storage/img/worldvideo-fullhd.mp4');  -->
+            <source src='storage/img/worldvideo-fullhd.mp4' type="video/mp4">
+        </video>
         
         <div class="jumbotron jumbotron-fluid">
             <div class="container">
