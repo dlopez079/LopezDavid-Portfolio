@@ -1,6 +1,0 @@
----
-deployment:
-   tasks:
-     #Export the respository's public folder for deployment
-     - export DEPLOYPATH=/home/hq5wo940eqe5/repositories/LopezDavid-Portfolio/public/
-     
